@@ -1,0 +1,574 @@
+[
+{
+  "slug": "online-puja",
+  "title": "Online Puja Services",
+  "titleNe": "अनलाइन पूजा सेवाहरू",
+  "icon": "🖥️",
+  "color": "#ff9933",
+  "shortDesc": "Book live Vedic rituals from the comfort of your home.",
+  "shortDescNe": "आफ्नो घरको सहजताबाट प्रत्यक्ष वैदिक अनुष्ठानहरू बुक गर्नुहोस्।",
+  "longDesc": "Experience the divine power of Vedic rituals through our live online puja services. Our experienced priests perform the ceremonies while you watch via video call. Get blessings, prasad delivered to your doorstep, and a digital puja certificate. We offer all 39 types of Vedic rituals online.",
+  "longDescNe": "हाम्रो प्रत्यक्ष अनलाइन पूजा सेवाहरू मार्फत वैदिक अनुष्ठानहरूको दिव्य शक्ति अनुभव गर्नुहोस्।",
+  "price": 1100,
+  "priceMin": 1100,
+  "priceMax": 7500,
+  "priceNe": "रु १,१०० बाट सुरु",
+  "duration": "1-3 hours",
+  "durationNe": "१-३ घण्टा",
+  "image": "/images/services/1.jpg",
+  "includes": ["Live video streaming", "Experienced priest", "Complete puja samagri", "Digital certificate", "Prasad delivery"],
+  "includesNe": ["प्रत्यक्ष भिडियो स्ट्रिमिङ", "अनुभवी पुरोहित", "सम्पूर्ण पूजा सामग्री", "डिजिटल प्रमाणपत्र", "प्रसाद डेलिभरी"],
+  "rituals": [
+    "Aasthachiranjibi Puja", "Annaprashana", "Antyeshti", "Asthi Visarjan", "Bhoomi Pujan",
+    "Bishnu Sahastranam", "Chandi Path", "Chudakarana", "Durga Saptashati", "Garbhadharan",
+    "Grahapravesh", "Griha Shanti", "Havan/Yagya", "Jatakarma", "Karnavedha",
+    "Keshanta", "Kuldevta Puja", "Lakshmi Puja", "Mahamrityunjaya Jaap", "Mundan",
+    "Naam Jaap", "Namakarana", "Narayan Bali", "Navagraha Shanti", "Nishkramana",
+    "Pitra Dosh Nivaran", "Pumsavana", "Rudri Path", "Samavartana", "Sannyasa",
+    "Satyanarayan Puja", "Shraddha", "Simantonnayana", "Tarpan", "Tripindi Shraddha",
+    "Upanayana", "Vanaprastha", "Vedarambha", "Vivaha"
+  ],
+  "ritualsNe": [
+    "आस्थाचिरञ्जीवी पूजा", "अन्नप्राशन", "अन्त्येष्टि", "अस्थि विसर्जन", "भूमि पूजन",
+    "विष्णु सहस्रनाम", "चण्डी पाठ", "चूड़ाकरण", "दुर्गा सप्तशती", "गर्भाधारण",
+    "गृह प्रवेश", "गृह शान्ति", "हवन/यज्ञ", "जातकर्म", "कर्णवेध",
+    "केशान्त", "कुलदेवता पूजा", "लक्ष्मी पूजा", "महामृत्युंजय जाप", "मुण्डन",
+    "नाम जाप", "नामकरण", "नारायण बली", "नवग्रह शान्ति", "निष्क्रमण",
+    "पितृ दोष निवारण", "पुंसवन", "रुद्री पाठ", "समावर्तन", "संन्यास",
+    "सत्यनारायण पूजा", "श्राद्ध", "सीमन्तोन्नयन", "तर्पण", "त्रिपिंडी श्राद्ध",
+    "उपनयन", "वानप्रस्थ", "वेदारम्भ", "विवाह"
+  ],
+  "benefits": ["Convenient online participation", "Same spiritual benefits", "Prasad delivered home", "Expert guidance", "All 39 rituals available online"],
+  "benefitsNe": ["सुविधाजनक अनलाइन सहभागिता", "समान आध्यात्मिक लाभ", "घरमै प्रसाद", "विज्ञ मार्गदर्शन", "सबै ३९ अनुष्ठान अनलाइन उपलब्ध"],
+  "popularity": 5,
+  "isAvailable": true,
+  "tags": ["online puja", "live ritual", "virtual ceremony", "39 rituals"]
+},
+  {
+  "slug": "priest",
+  "title": "Priest Booking",
+  "titleNe": "पुरोहित बुकिङ",
+  "icon": "🧘",
+  "color": "#e8b923",
+  "shortDesc": "Hire verified pandits for home visits and all 39 Vedic ceremonies.",
+  "shortDescNe": "घर भ्रमण र सबै ३९ वैदिक समारोहको लागि प्रमाणित पण्डितहरू भाडामा लिनुहोस्।",
+  "longDesc": "Book experienced and background-verified priests for any ceremony at your home. Our pandits are well-versed in Vedic scriptures and perform all 39 types of rituals with complete devotion and authenticity.",
+  "longDescNe": "तपाईंको घरमा कुनै पनि समारोहको लागि अनुभवी र पृष्ठभूमि प्रमाणित पुरोहितहरू बुक गर्नुहोस्।",
+  "price": 1500,
+  "priceMin": 1500,
+  "priceMax": 8000,
+  "priceNe": "रु १,५०० बाट सुरु",
+  "duration": "1-6 hours",
+  "durationNe": "१-६ घण्टा",
+  "image": "/images/services/2.jpg",
+  "includes": ["Verified pandit", "Punctual arrival", "All ritual knowledge", "Sanskrit expertise", "Complete samagri"],
+  "includesNe": ["प्रमाणित पण्डित", "समयपालक आगमन", "सबै अनुष्ठान ज्ञान", "संस्कृत विशेषज्ञता", "सम्पूर्ण सामग्री"],
+  "rituals": [
+    "Aasthachiranjibi Puja", "Annaprashana", "Antyeshti", "Asthi Visarjan", "Bhoomi Pujan",
+    "Bishnu Sahastranam", "Chandi Path", "Chudakarana", "Durga Saptashati", "Garbhadharan",
+    "Grahapravesh", "Griha Shanti", "Havan/Yagya", "Jatakarma", "Karnavedha",
+    "Keshanta", "Kuldevta Puja", "Lakshmi Puja", "Mahamrityunjaya Jaap", "Mundan",
+    "Naam Jaap", "Namakarana", "Narayan Bali", "Navagraha Shanti", "Nishkramana",
+    "Pitra Dosh Nivaran", "Pumsavana", "Rudri Path", "Samavartana", "Sannyasa",
+    "Satyanarayan Puja", "Shraddha", "Simantonnayana", "Tarpan", "Tripindi Shraddha",
+    "Upanayana", "Vanaprastha", "Vedarambha", "Vivaha"
+  ],
+  "ritualsNe": [
+    "आस्थाचिरञ्जीवी पूजा", "अन्नप्राशन", "अन्त्येष्टि", "अस्थि विसर्जन", "भूमि पूजन",
+    "विष्णु सहस्रनाम", "चण्डी पाठ", "चूड़ाकरण", "दुर्गा सप्तशती", "गर्भाधारण",
+    "गृह प्रवेश", "गृह शान्ति", "हवन/यज्ञ", "जातकर्म", "कर्णवेध",
+    "केशान्त", "कुलदेवता पूजा", "लक्ष्मी पूजा", "महामृत्युंजय जाप", "मुण्डन",
+    "नाम जाप", "नामकरण", "नारायण बली", "नवग्रह शान्ति", "निष्क्रमण",
+    "पितृ दोष निवारण", "पुंसवन", "रुद्री पाठ", "समावर्तन", "संन्यास",
+    "सत्यनारायण पूजा", "श्राद्ध", "सीमन्तोन्नयन", "तर्पण", "त्रिपिंडी श्राद्ध",
+    "उपनयन", "वानप्रस्थ", "वेदारम्भ", "विवाह"
+  ],
+  "benefits": ["Authentic rituals", "Flexible scheduling", "Professional conduct", "Peace of mind", "All 39 ceremonies available"],
+  "benefitsNe": ["प्रामाणिक अनुष्ठान", "लचिलो समय तालिका", "व्यावसायिक आचरण", "मानसिक शान्ति", "सबै ३९ समारोह उपलब्ध"],
+  "popularity": 5,
+  "isAvailable": true,
+  "tags": ["priest", "pandit", "home ceremony", "rituals", "39 rituals"]
+}, 
+  {
+    "slug": "astrology",
+    "title": "Astrology Consultation",
+    "titleNe": "ज्योतिष परामर्श",
+    "icon": "⭐",
+    "color": "#ff6b35",
+    "shortDesc": "Vedic astrology guidance for life decisions.",
+    "shortDescNe": "जीवन निर्णयहरूको लागि वैदिक ज्योतिष मार्गदर्शन।",
+    "longDesc": "Get accurate kundali analysis, horoscope matching, and career guidance from expert Vedic astrologers. Make informed decisions about marriage, business, education, and more.",
+    "longDescNe": "विज्ञ वैदिक ज्योतिषीहरूबाट सटीक कुण्डली विश्लेषण, राशिफल मिलान, र करियर मार्गदर्शन प्राप्त गर्नुहोस्।",
+    "price": 1000,
+    "priceMin": 1000,
+    "priceMax": 5000,
+    "priceNe": "रु १,००० बाट सुरु",
+    "duration": "45-90 minutes",
+    "durationNe": "४५-९० मिनेट",
+    "image": "/images/services/3.jpg",
+    "includes": ["Kundali analysis", "Birth chart reading", "Remedies", "Digital report"],
+    "includesNe": ["कुण्डली विश्लेषण", "जन्म चार्ट रीडिंग", "उपायहरू", "डिजिटल रिपोर्ट"],
+    "rituals": ["Kundali Milan", "Career Guidance", "Marriage Timing", "Business Muhurta"],
+    "ritualsNe": ["कुण्डली मिलान", "करियर मार्गदर्शन", "विवाह समय", "व्यापार मुहूर्त"],
+    "benefits": ["Life path clarity", "Better decisions", "Problem remedies", "Future insights"],
+    "benefitsNe": ["जीवन पथ स्पष्टता", "राम्रो निर्णय", "समस्या उपाय", "भविष्य अन्तर्दृष्टि"],
+    "popularity": 5,
+    "isAvailable": true,
+    "tags": ["astrology", "kundali", "consultation", "vedic"]
+  },
+  {
+    "slug": "products",
+    "title": "Puja Samagri Package",
+    "titleNe": "पूजा सामग्री प्याकेज",
+    "icon": "📦",
+    "color": "#c9980a",
+    "shortDesc": "Complete puja kits delivered to your doorstep for all 39 Vedic rituals.",
+    "shortDescNe": "सबै ३९ वैदिक अनुष्ठानहरूको लागि पूर्ण पूजा किट तपाईंको घरमै डेलिभरी।",
+    "longDesc": "Get ready-to-use puja samagri packages for all 39 major rituals. Each kit contains everything you need - from incense to specific ritual items - carefully curated and delivered fresh to your home. Just book the puja and we deliver the complete samagri.",
+    "longDescNe": "सबै ३९ प्रमुख अनुष्ठानहरूको लागि प्रयोगको लागि तयार पूजा सामग्री प्याकेजहरू प्राप्त गर्नुहोस्। प्रत्येक किटमा तपाईंलाई चाहिने सबै कुरा समावेश छ।",
+    "price": 500,
+    "priceMin": 500,
+    "priceMax": 15000,
+    "priceNe": "रु ५०० बाट सुरु",
+    "duration": "Same day delivery",
+    "durationNe": "उही दिन डेलिभरी",
+    "image": "/images/services/4.jpg",
+    "includes": ["Complete puja kit", "Fresh items", "Same day delivery", "Quality guaranteed"],
+    "includesNe": ["पूर्ण पूजा किट", "ताजा सामग्री", "उही दिन डेलिभरी", "गुणस्तर ग्यारेन्टी"],
+    "rituals": [
+      "Aasthachiranjibi Puja Kit",
+      "Annaprashana Kit",
+      "Antyeshti Kit",
+      "Asthi Visarjan Kit",
+      "Bhoomi Pujan Kit",
+      "Bishnu Sahastranam Kit",
+      "Chandi Path Kit",
+      "Chudakarana Kit",
+      "Durga Saptashati Kit",
+      "Garbhadharan Kit",
+      "Grahapravesh Kit",
+      "Griha Shanti Kit",
+      "Havan/Yagya Kit",
+      "Jatakarma Kit",
+      "Karnavedha Kit",
+      "Keshanta Kit",
+      "Kuldevta Puja Kit",
+      "Lakshmi Puja Kit",
+      "Mahamrityunjaya Jaap Kit",
+      "Mundan Kit",
+      "Naam Jaap Kit",
+      "Namakarana Kit",
+      "Narayan Bali Kit",
+      "Navagraha Shanti Kit",
+      "Nishkramana Kit",
+      "Pitra Dosh Nivaran Kit",
+      "Pumsavana Kit",
+      "Rudri Path Kit",
+      "Samavartana Kit",
+      "Sannyasa Kit",
+      "Satyanarayan Puja Kit",
+      "Shraddha Kit",
+      "Simantonnayana Kit",
+      "Tarpan Kit",
+      "Tripindi Shraddha Kit",
+      "Upanayana Kit",
+      "Vanaprastha Kit",
+      "Vedarambha Kit",
+      "Vivaha Kit"
+    ],
+    "ritualsNe": [
+      "आस्थाचिरञ्जीवी पूजा किट",
+      "अन्नप्राशन किट",
+      "अन्त्येष्टि किट",
+      "अस्थि विसर्जन किट",
+      "भूमि पूजन किट",
+      "विष्णु सहस्रनाम किट",
+      "चण्डी पाठ किट",
+      "चूड़ाकरण किट",
+      "दुर्गा सप्तशती किट",
+      "गर्भाधारण किट",
+      "गृह प्रवेश किट",
+      "गृह शान्ति किट",
+      "हवन/यज्ञ किट",
+      "जातकर्म किट",
+      "कर्णवेध किट",
+      "केशान्त किट",
+      "कुलदेवता पूजा किट",
+      "लक्ष्मी पूजा किट",
+      "महामृत्युंजय जाप किट",
+      "मुण्डन किट",
+      "नाम जाप किट",
+      "नामकरण किट",
+      "नारायण बली किट",
+      "नवग्रह शान्ति किट",
+      "निष्क्रमण किट",
+      "पितृ दोष निवारण किट",
+      "पुंसवन किट",
+      "रुद्री पाठ किट",
+      "समावर्तन किट",
+      "संन्यास किट",
+      "सत्यनारायण पूजा किट",
+      "श्राद्ध किट",
+      "सीमन्तोन्नयन किट",
+      "तर्पण किट",
+      "त्रिपिंडी श्राद्ध किट",
+      "उपनयन किट",
+      "वानप्रस्थ किट",
+      "वेदारम्भ किट",
+      "विवाह किट"
+    ],
+    "pujaKits": [
+      {
+        "name": "Aasthachiranjibi Puja Kit",
+        "items": ["Ghee", "Camphor", "Incense sticks", "Flowers", "Fruits", "Betel nuts", "Sandalwood paste", "Red cloth", "Coconut", "Puja thali"]
+      },
+      {
+        "name": "Annaprashana Kit",
+        "items": ["Silver spoon", "Silver bowl", "Rice", "Ghee", "Honey", "Curd", "Flowers", "Incense", "Coconut"]
+      },
+      {
+        "name": "Antyeshti Kit",
+        "items": ["Ghee", "Camphor", "Sandalwood", "Incense", "Cotton cloth", "Flowers", "Rice", "Copper coin", "Ganga jal"]
+      },
+      {
+        "name": "Asthi Visarjan Kit",
+        "items": ["Ganga jal", "Flowers", "Rice", "Sesame seeds", "Barley", "Copper coin", "Incense", "Camphor"]
+      },
+      {
+        "name": "Bhoomi Pujan Kit",
+        "items": ["Ghee", "Camphor", "Incense", "Flowers", "Coconut", "Betel nuts", "Sandalwood", "Rice", "Turmeric", "Vermilion"]
+      },
+      {
+        "name": "Bishnu Sahastranam Kit",
+        "items": ["Tulsi leaves", "Flowers", "Incense", "Ghee lamp", "Sandalwood paste", "Fruits", "Coconut", "Puja thali"]
+      },
+      {
+        "name": "Chandi Path Kit",
+        "items": ["Red cloth", "Vermilion", "Flowers", "Incense", "Ghee lamp", "Coconut", "Fruits", "Sindoor", "Kumkum"]
+      },
+      {
+        "name": "Chudakarana Kit",
+        "items": ["Barber's tools", "Flowers", "Rice", "Curd", "Honey", "Ghee", "Coconut", "New clothes"]
+      },
+      {
+        "name": "Durga Saptashati Kit",
+        "items": ["Red cloth", "Vermilion", "Flowers", "Incense", "Ghee lamp", "Coconut", "Fruits", "Kumkum", "Sindoor", "Betel nuts"]
+      },
+      {
+        "name": "Garbhadharan Kit",
+        "items": ["Ghee", "Rice", "Curd", "Honey", "Flowers", "Fruits", "Coconut", "Pomegranate", "Milk"]
+      },
+      {
+        "name": "Grahapravesh Kit",
+        "items": ["Ghee lamp", "Incense", "Flowers", "Coconut", "Betel nuts", "Rice", "Turmeric", "Vermilion", "Milk", "Curd"]
+      },
+      {
+        "name": "Griha Shanti Kit",
+        "items": ["Ghee", "Camphor", "Incense", "Flowers", "Coconut", "Betel nuts", "Sandalwood", "Rice", "Navagraha idols"]
+      },
+      {
+        "name": "Havan/Yagya Kit",
+        "items": ["Havan kund", "Ghee", "Camphor", "Havan samagri", "Sandalwood", "Rice", "Barley", "Sesame seeds", "Incense"]
+      },
+      {
+        "name": "Jatakarma Kit",
+        "items": ["Ghee", "Honey", "Gold ring", "Silver coin", "Flowers", "Rice", "Coconut", "Newborn clothes"]
+      },
+      {
+        "name": "Karnavedha Kit",
+        "items": ["Gold/Silver needle", "Cotton thread", "Flowers", "Rice", "Curd", "Honey", "Ghee", "Coconut"]
+      },
+      {
+        "name": "Keshanta Kit",
+        "items": ["Barber's tools", "Flowers", "Rice", "Curd", "Honey", "Ghee", "Coconut", "New clothes", "Sandalwood"]
+      },
+      {
+        "name": "Kuldevta Puja Kit",
+        "items": ["Flowers", "Incense", "Ghee lamp", "Coconut", "Fruits", "Betel nuts", "Sandalwood", "Rice", "Family deity photo"]
+      },
+      {
+        "name": "Lakshmi Puja Kit",
+        "items": ["Lakshmi idol/photo", "Red cloth", "Vermilion", "Flowers", "Incense", "Ghee lamp", "Coconut", "Fruits", "Coins", "Rice"]
+      },
+      {
+        "name": "Mahamrityunjaya Jaap Kit",
+        "items": ["Rudraksha mala", "Ghee", "Camphor", "Incense", "Flowers", "Coconut", "Milk", "Ganga jal", "Sandalwood"]
+      },
+      {
+        "name": "Mundan Kit",
+        "items": ["Barber's tools", "Flowers", "Rice", "Curd", "Honey", "Ghee", "Coconut", "New clothes", "Towel"]
+      },
+      {
+        "name": "Naam Jaap Kit",
+        "items": ["Tulsi mala", "Sandalwood paste", "Incense", "Flowers", "Fruits", "Ghee lamp", "Puja thali"]
+      },
+      {
+        "name": "Namakarana Kit",
+        "items": ["Palm leaf", "Pen", "Ink", "Flowers", "Rice", "Curd", "Honey", "Ghee", "Coconut", "New clothes"]
+      },
+      {
+        "name": "Narayan Bali Kit",
+        "items": ["Ghee", "Camphor", "Incense", "Flowers", "Coconut", "Sesame seeds", "Barley", "Copper coin", "Ganga jal"]
+      },
+      {
+        "name": "Navagraha Shanti Kit",
+        "items": ["9 colored cloths", "9 types of grains", "Navagraha idols", "Ghee", "Camphor", "Incense", "Flowers", "Coconut"]
+      },
+      {
+        "name": "Nishkramana Kit",
+        "items": ["Flowers", "Rice", "Curd", "Honey", "Ghee", "Coconut", "Baby clothes", "Incense"]
+      },
+      {
+        "name": "Pitra Dosh Nivaran Kit",
+        "items": ["Sesame seeds", "Barley", "Ganga jal", "Flowers", "Rice", "Copper coin", "Incense", "Camphor", "Black cloth"]
+      },
+      {
+        "name": "Pumsavana Kit",
+        "items": ["Barley seeds", "Curd", "Honey", "Ghee", "Flowers", "Fruits", "Coconut", "Milk", "Pomegranate"]
+      },
+      {
+        "name": "Rudri Path Kit",
+        "items": ["Rudraksha mala", "Bilva leaves", "Ghee", "Camphor", "Incense", "Flowers", "Coconut", "Milk", "Sandalwood"]
+      },
+      {
+        "name": "Samavartana Kit",
+        "items": ["New clothes", "Flowers", "Rice", "Curd", "Honey", "Ghee", "Coconut", "Sandalwood", "Books"]
+      },
+      {
+        "name": "Sannyasa Kit",
+        "items": ["Orange cloth", "Sandalwood paste", "Rudraksha mala", "Kamandalu", "Flowers", "Incense", "Coconut", "Ganga jal"]
+      },
+      {
+        "name": "Satyanarayan Puja Kit",
+        "items": ["Satyanarayan photo", "Flowers", "Incense", "Ghee lamp", "Coconut", "Fruits", "Betel nuts", "Rice", "Sandalwood"]
+      },
+      {
+        "name": "Shraddha Kit",
+        "items": ["Sesame seeds", "Barley", "Ganga jal", "Flowers", "Rice", "Copper coin", "Incense", "Camphor", "Pinda materials"]
+      },
+      {
+        "name": "Simantonnayana Kit",
+        "items": ["Flowers", "Rice", "Curd", "Honey", "Ghee", "Coconut", "Milk", "Fruits", "Sindoor", "Bangles"]
+      },
+      {
+        "name": "Tarpan Kit",
+        "items": ["Sesame seeds", "Barley", "Ganga jal", "Flowers", "Rice", "Copper coin", "Black sesame seeds"]
+      },
+      {
+        "name": "Tripindi Shraddha Kit",
+        "items": ["Sesame seeds", "Barley", "Ganga jal", "Flowers", "Rice", "Copper coins", "Incense", "Camphor", "Pinda materials", "Black cloth"]
+      },
+      {
+        "name": "Upanayana Kit",
+        "items": ["Sacred thread", "Deerskin", "Danda", "Flowers", "Rice", "Curd", "Honey", "Ghee", "Coconut", "New clothes"]
+      },
+      {
+        "name": "Vanaprastha Kit",
+        "items": ["Orange/brown cloth", "Sandalwood paste", "Rudraksha", "Kamandalu", "Flowers", "Incense", "Coconut", "Ganga jal"]
+      },
+      {
+        "name": "Vedarambha Kit",
+        "items": ["Books", "Pen", "Ink", "Flowers", "Rice", "Curd", "Honey", "Ghee", "Coconut", "Sandalwood"]
+      },
+      {
+        "name": "Vivaha Kit",
+        "items": ["Wedding attires", "Sindoor", "Mangalsutra", "Flowers", "Rice", "Curd", "Honey", "Ghee", "Coconut", "Betel nuts", "Fruits", "Incense", "Ghee lamp", "Puja thali", "Garlands"]
+      }
+    ],
+    "benefits": ["Convenient", "Time-saving", "Authentic items", "Fresh ingredients", "Complete kit for each ritual"],
+    "benefitsNe": ["सुविधाजनक", "समय बचत", "प्रामाणिक सामग्री", "ताजा सामग्री", "प्रत्येक अनुष्ठानको लागि पूर्ण किट"],
+    "popularity": 4,
+    "isAvailable": true,
+    "tags": ["puja samagri", "puja kit", "religious items", "39 rituals"]
+  },
+  
+  {
+    "slug": "kriyaputri",
+    "title": "Kriyaputri Bhawan Booking",
+    "titleNe": "क्रियापुत्री भवन बुकिङ",
+    "icon": "🏛️",
+    "color": "#4caf50",
+    "shortDesc": "Book kriyaputri bhawan for funeral rites.",
+    "shortDescNe": "अन्त्येष्टि संस्कारको लागि क्रियापुत्री भवन बुक गर्नुहोस्।",
+    "longDesc": "Reserve kriyaputri bhawan for performing 13-day funeral rites with complete facilities. Well-maintained spaces with all necessary amenities for traditional rituals.",
+    "longDescNe": "परम्परागत अनुष्ठानहरूको लागि सबै आवश्यक सुविधाहरू सहित १३-दिने अन्त्येष्टि संस्कार गर्नको लागि क्रियापुत्री भवन आरक्षित गर्नुहोस्।",
+    "price": 500,
+    "priceMin": 500,
+    "priceMax": 5000,
+    "priceNe": "रु ५०० बाट सुरु",
+    "duration": "Per booking",
+    "durationNe": "प्रति बुकिङ",
+    "image": "/images/services/5.jpg",
+    "includes": ["Clean facility", "Priest assistance", "Basic amenities", "Flexible timing"],
+    "includesNe": ["सफा सुविधा", "पुरोहित सहायता", "आधारभूत सुविधाहरू", "लचिलो समय"],
+    "rituals": ["13-day rites", "Dashain Kriya", "Narayan Bali", "Pindadan"],
+    "ritualsNe": ["१३-दिने संस्कार", "दशैं क्रिया", "नारायण बलि", "पिण्डदान"],
+    "benefits": ["Peaceful environment", "Complete facilities", "Priest available", "Easy booking"],
+    "benefitsNe": ["शान्त वातावरण", "पूर्ण सुविधाहरू", "पुरोहित उपलब्ध", "सजिलो बुकिङ"],
+    "popularity": 4,
+    "isAvailable": true,
+    "tags": ["kriyaputri", "funeral rites", "bhawan booking"]
+  },
+  {
+    "slug": "corporate",
+    "title": "Corporate Services",
+    "titleNe": "कर्पोरेट सेवाहरू",
+    "icon": "🏢",
+    "color": "#2196f3",
+    "shortDesc": "Spiritual and wellness services for organizations.",
+    "shortDescNe": "संस्थाहरूको लागि आध्यात्मिक र कल्याण सेवाहरू।",
+    "longDesc": "Bring peace and positivity to your workplace with our corporate spiritual services including office puja, employee wellness programs, and stress management sessions.",
+    "longDescNe": "हाम्रो कर्पोरेट आध्यात्मिक सेवाहरूको साथ आफ्नो कार्यस्थलमा शान्ति र सकारात्मकता ल्याउनुहोस्।",
+    "price": 2100,
+    "priceMin": 2100,
+    "priceMax": 25000,
+    "priceNe": "रु २,१०० बाट सुरु",
+    "duration": "2-4 hours",
+    "durationNe": "२-४ घण्टा",
+    "image": "/images/services/6.jpg",
+    "includes": ["Office puja", "Wellness talk", "Stress management", "Team meditation"],
+    "includesNe": ["कार्यालय पूजा", "कल्याण वार्ता", "तनाव व्यवस्थापन", "टोली ध्यान"],
+    "rituals": ["Office Vastu", "Griha Shanti", "Employee wellness", "Annual puja"],
+    "ritualsNe": ["कार्यालय वास्तु", "गृह शान्ति", "कर्मचारी कल्याण", "वार्षिक पूजा"],
+    "benefits": ["Increased positivity", "Better productivity", "Team harmony", "Stress reduction"],
+    "benefitsNe": ["बढेको सकारात्मकता", "राम्रो उत्पादकता", "टोली सद्भाव", "तनाव कटौती"],
+    "popularity": 4,
+    "isAvailable": true,
+    "tags": ["corporate", "office puja", "wellness", "business"]
+  },
+  {
+    "slug": "hom-yagya",
+    "title": "Saptaha Yagya Hom",
+    "titleNe": "होम र यज्ञ",
+    "icon": "🔥",
+    "color": "#f44336",
+    "shortDesc": "Powerful fire rituals for specific intentions.",
+    "shortDescNe": "विशिष्ट उद्देश्यहरूको लागि शक्तिशाली अग्नि अनुष्ठान।",
+    "longDesc": "Book powerful homams performed by expert priests for specific purposes - wealth, health, success, protection, and spiritual growth. Complete with all samagri.",
+    "longDescNe": "विशेष उद्देश्यहरू - धन, स्वास्थ्य, सफलता, सुरक्षा, र आध्यात्मिक विकासको लागि विशेषज्ञ पुरोहितहरूद्वारा शक्तिशाली होमम बुक गर्नुहोस्।",
+    "price": 6500,
+    "priceMin": 6500,
+    "priceMax": 35000,
+    "priceNe": "रु ६,५०० बाट सुरु",
+    "duration": "3-4 hours",
+    "durationNe": "३-४ घण्टा",
+    "image": "/images/services/7.jpg",
+    "includes": ["Expert priests", "Complete havan samagri", "Specific mantras", "Prasad distribution"],
+    "includesNe": ["विज्ञ पुरोहित", "पूर्ण हवन सामग्री", "विशिष्ट मन्त्र", "प्रसाद वितरण"],
+    "rituals": ["Ganapati Homam", "Lakshmi Kuber Homam", "Navagraha Homam", "Maha Mrityunjaya Homam"],
+    "ritualsNe": ["गणपति होमम", "लक्ष्मी कुबेर होमम", "नवग्रह होमम", "महा मृत्युञ्जय होमम"],
+    "benefits": ["Removes obstacles", "Attracts prosperity", "Health blessings", "Spiritual protection"],
+    "benefitsNe": ["बाधा हटाउँछ", "समृद्धि आकर्षित गर्दछ", "स्वास्थ्य आशीर्वाद", "आध्यात्मिक सुरक्षा"],
+    "popularity": 5,
+    "isAvailable": true,
+    "tags": ["homam", "yagya", "fire ritual", "havan"]
+  },
+  {
+    "slug": "vastu",
+    "title": "Vastu Consultation",
+    "titleNe": "वास्तु परामर्श",
+    "icon": "🏠",
+    "color": "#9c27b0",
+    "shortDesc": "Expert Vastu advice for homes and businesses.",
+    "shortDescNe": "घर र व्यवसायहरूको लागि विशेषज्ञ वास्तु सल्लाह।",
+    "longDesc": "Get professional Vastu consultation for your home or office. Our experts analyze your space and provide practical remedies for harmony, prosperity, and well-being.",
+    "longDescNe": "तपाईंको घर वा कार्यालयको लागि व्यावसायिक वास्तु परामर्श प्राप्त गर्नुहोस्।",
+    "price": 1100,
+    "priceMin": 1100,
+    "priceMax": 15000,
+    "priceNe": "रु १,१०० बाट सुरु",
+    "duration": "2-3 hours",
+    "durationNe": "२-३ घण्टा",
+    "image": "/images/services/8.jpg",
+    "includes": ["Site analysis", "Remedies report", "Follow-up support", "Digital report"],
+    "includesNe": ["स्थल विश्लेषण", "उपाय रिपोर्ट", "अनुगमन समर्थन", "डिजिटल रिपोर्ट"],
+    "rituals": ["Home Vastu", "Office Vastu", "Factory Vastu", "Plot Selection", "Vastu Puja"],
+    "ritualsNe": ["गृह वास्तु", "कार्यालय वास्तु", "कारखाना वास्तु", "प्लट चयन", "वास्तु पूजा"],
+    "benefits": ["Harmony at home", "Business growth", "Health improvement", "Financial stability"],
+    "benefitsNe": ["घरमा सद्भाव", "व्यापार वृद्धि", "स्वास्थ्य सुधार", "वित्तीय स्थिरता"],
+    "popularity": 4,
+    "isAvailable": true,
+    "tags": ["vastu", "consultation", "home", "office"]
+  },
+  {
+    "slug": "karmakanda",
+    "title": "Karmakanda Classes",
+    "titleNe": "कर्मकाण्ड कक्षाहरू",
+    "icon": "📖",
+    "color": "#00bcd4",
+    "shortDesc": "Learn traditional Vedic ritual procedures.",
+    "shortDescNe": "परम्परागत वैदिक अनुष्ठान प्रक्रियाहरू सिक्नुहोस्।",
+    "longDesc": "Enroll in our comprehensive Karmakanda course to learn proper Vedic ritual procedures, mantras, and samskaras. Perfect for priests and spiritual seekers.",
+    "longDescNe": "उचित वैदिक अनुष्ठान प्रक्रियाहरू, मन्त्रहरू, र संस्कारहरू सिक्नको लागि हाम्रो व्यापक कर्मकाण्ड पाठ्यक्रममा भर्ना हुनुहोस्।",
+    "price": 5000,
+    "priceMin": 5000,
+    "priceMax": 25000,
+    "priceNe": "रु ५,००० बाट सुरु",
+    "duration": "Per course",
+    "durationNe": "प्रति पाठ्यक्रम",
+    "image": "/images/services/9.jpg",
+    "includes": ["Course materials", "Expert instructors", "Certificate", "Practical training"],
+    "includesNe": ["पाठ्यक्रम सामग्री", "विज्ञ प्रशिक्षक", "प्रमाणपत्र", "व्यावहारिक प्रशिक्षण"],
+    "rituals": ["Daily rituals", "Samskaras", "Mantra chanting", "Puja procedures"],
+    "ritualsNe": ["दैनिक अनुष्ठान", "संस्कारहरू", "मन्त्र जप", "पूजा प्रक्रियाहरू"],
+    "benefits": ["Become a priest", "Deepen knowledge", "Perform rituals correctly", "Spiritual growth"],
+    "benefitsNe": ["पुरोहित बन्नुहोस्", "ज्ञान गहिरो बनाउनुहोस्", "अनुष्ठान सही गर्नुहोस्", "आध्यात्मिक विकास"],
+    "popularity": 3,
+    "isAvailable": true,
+    "tags": ["karmakanda", "vedic", "rituals", "course"]
+  },
+  {
+    "slug": "bhajan-kirtan",
+    "title": "Bhajan Kirtan Samuha",
+    "titleNe": "भजन कीर्तन समूह",
+    "icon": "🎵",
+    "color": "#e91e63",
+    "shortDesc": "Devotional music group for ceremonies and events.",
+    "shortDescNe": "समारोह र कार्यक्रमहरूको लागि भक्ति संगीत समूह।",
+    "longDesc": "Book our professional bhajan kirtan group for your ceremonies, festivals, and spiritual events. Experience soulful devotional music that elevates the atmosphere.",
+    "longDescNe": "तपाईंको समारोह, चाडपर्व, र आध्यात्मिक कार्यक्रमहरूको लागि हाम्रो व्यावसायिक भजन कीर्तन समूह बुक गर्नुहोस्।",
+    "price": 7000,
+    "priceMin": 7000,
+    "priceMax": 35000,
+    "priceNe": "रु ७,००० बाट सुरु",
+    "duration": "Per event",
+    "durationNe": "प्रति कार्यक्रम",
+    "image": "/images/services/10.jpg",
+    "includes": ["5-7 members", "Musical instruments", "2-3 hour session", "Custom bhajans"],
+    "includesNe": ["५-७ सदस्य", "संगीत वाद्ययंत्र", "२-३ घण्टा सत्र", "अनुकूल भजन"],
+    "rituals": ["Satsang", "Aarti", "Evening bhajan", "Festival programs"],
+    "ritualsNe": ["सत्संग", "आरती", "साँझ भजन", "चाडपर्व कार्यक्रम"],
+    "benefits": ["Divine atmosphere", "Audience engagement", "Traditional music", "Memorable event"],
+    "benefitsNe": ["दिव्य वातावरण", "दर्शक संलग्नता", "परम्परागत संगीत", "यादगार कार्यक्रम"],
+    "popularity": 4,
+    "isAvailable": true,
+    "tags": ["bhajan", "kirtan", "devotional", "music"]
+  },
+  {
+    "slug": "tirtha-yatra",
+    "title": "Tirtha Yatra Services",
+    "titleNe": "तीर्थ यात्रा सेवाहरू",
+    "icon": "✈️",
+    "color": "#ff9800",
+    "shortDesc": "Complete pilgrimage tour packages across Nepal & India.",
+    "shortDescNe": "नेपाल र भारतभर पूर्ण तीर्थ यात्रा प्याकेजहरू।",
+    "longDesc": "Explore sacred pilgrimage sites with our complete tour packages. Includes transportation, accommodation, priest guidance, and all arrangements for a spiritually fulfilling journey.",
+    "longDescNe": "हाम्रो पूर्ण यात्रा प्याकेजहरूको साथ पवित्र तीर्थ स्थलहरूको अन्वेषण गर्नुहोस्।",
+    "price": 1000,
+    "priceMin": 1000,
+    "priceMax": 75000,
+    "priceNe": "रु १,००० बाट सुरु",
+    "duration": "Per day / package",
+    "durationNe": "प्रति दिन / प्याकेज",
+    "image": "/images/services/11.jpg",
+    "includes": ["Transportation", "Accommodation", "Priest guidance", "Puja arrangements"],
+    "includesNe": ["यातायात", "आवास", "पुरोहित मार्गदर्शन", "पूजा व्यवस्था"],
+    "rituals": ["Muktinath Yatra", "Pashupati Darshan", "Kashi Yatra", "Char Dham"],
+    "ritualsNe": ["मुक्तिनाथ यात्रा", "पशुपति दर्शन", "काशी यात्रा", "चार धाम"],
+    "benefits": ["Stress-free travel", "Spiritual guidance", "Group discounts", "Complete arrangements"],
+    "benefitsNe": ["तनाव-मुक्त यात्रा", "आध्यात्मिक मार्गदर्शन", "समूह छुट", "पूर्ण व्यवस्था"],
+    "popularity": 4,
+    "isAvailable": true,
+    "tags": ["pilgrimage", "yatra", "travel", "tours"]
+  }
+] 
