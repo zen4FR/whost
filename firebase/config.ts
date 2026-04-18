@@ -1,7 +1,6 @@
-import { initializeApp, getApps } from 'firebase/app';
-import { getAuth } from 'firebase/auth';
-import { getFirestore } from 'firebase/firestore';
-import { getStorage } from 'firebase/storage';
+import { initializeApp, getApps, FirebaseApp } from "firebase/app";
+import { getFirestore, Firestore } from "firebase/firestore";
+import { getAuth, Auth } from "firebase/auth";
 
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
@@ -12,33 +11,19 @@ const firebaseConfig = {
   appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
 };
 
-console.log('Firebase Config Check:', {
-  hasApiKey: !!firebaseConfig.apiKey,
-  authDomain: firebaseConfig.authDomain,
-  projectId: firebaseConfig.projectId,
-});
+// Initialize Firebase
+let app: FirebaseApp;
+let db: Firestore;
+let auth: Auth;
 
-let app;
-let auth;
-let db;
-let storage;
-
-try {
-  if (!getApps().length) {
-    app = initializeApp(firebaseConfig);
-    console.log('✅ Firebase initialized');
-  } else {
-    app = getApps()[0];
-    console.log('✅ Using existing Firebase');
-  }
-  
-  auth = getAuth(app);
+if (!getApps().length) {
+  app = initializeApp(firebaseConfig);
   db = getFirestore(app);
-  storage = getStorage(app);
-  
-  console.log('✅ Firebase services ready');
-} catch (error) {
-  console.error('❌ Firebase error:', error);
+  auth = getAuth(app);
+} else {
+  app = getApps()[0];
+  db = getFirestore(app);
+  auth = getAuth(app);
 }
 
-export { app, auth, db, storage };
+export { db, auth };
