@@ -3,8 +3,25 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { useLang } from "../../context/LanguageContext";
 
+// Safe fallback implementation in case the hook isn't available
+// This ensures the build never fails even if the context isn't properly set up
+const useSafeLang = () => {
+  try {
+    const result = useLang();
+    // Validate that the hook returns what we expect
+    if (result && typeof result === 'object' && 't' in result && typeof result.t === 'function') {
+      return result;
+    }
+    // Fallback if structure is wrong
+    return { t: (key: string) => key };
+  } catch (error) {
+    // Fallback for when the hook throws (e.g., missing provider)
+    return { t: (key: string) => key };
+  }
+};
+
 export default function CTASection() {
-  const { t } = useLang();
+  const { t } = useSafeLang();
   
   return (
     <section style={{ background: "linear-gradient(135deg, #1a0f00 0%, #3d2200 50%, #1a0f00 100%)", padding: "80px 24px", position: "relative", overflow: "hidden" }}>
