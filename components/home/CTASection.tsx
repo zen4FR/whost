@@ -3,25 +3,39 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { useLang } from "../../context/LanguageContext";
 
-// Safe fallback implementation in case the hook isn't available
-// This ensures the build never fails even if the context isn't properly set up
-const useSafeLang = () => {
-  try {
-    const result = useLang();
-    // Validate that the hook returns what we expect
-    if (result && typeof result === 'object' && 't' in result && typeof result.t === 'function') {
-      return result;
-    }
-    // Fallback if structure is wrong
-    return { t: (key: string) => key };
-  } catch (error) {
-    // Fallback for when the hook throws (e.g., missing provider)
-    return { t: (key: string) => key };
-  }
-};
+// Type-safe translation function that always works
+type TranslateFunction = (key: string) => string;
+
+// Safe translation fallback that returns the key
+const fallbackT: TranslateFunction = (key: string) => key;
 
 export default function CTASection() {
-  const { t } = useSafeLang();
+  // Ensure the hook is called unconditionally at the top level
+  let t: TranslateFunction = fallbackT;
+  
+  try {
+    // Try to get the hook result
+    const langContext = useLang();
+    
+    // Check if the hook returned what we expect
+    if (langContext && typeof langContext === 'object') {
+      // Handle both named export { t } and default export with t property
+      if ('t' in langContext && typeof langContext.t === 'function') {
+        t = langContext.t;
+      } 
+      // Handle case where the context itself is the translate function
+      else if (typeof langContext === 'function') {
+        t = langContext;
+      }
+      // Handle case where the hook returns a function directly
+      else if (typeof langContext === 'function') {
+        t = langContext;
+      }
+    }
+  } catch (error) {
+    // Silent fallback - use the fallback function
+    console.warn('useLang hook failed, using fallback translations:', error);
+  }
   
   return (
     <section style={{ background: "linear-gradient(135deg, #1a0f00 0%, #3d2200 50%, #1a0f00 100%)", padding: "80px 24px", position: "relative", overflow: "hidden" }}>
